@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2017\Projects\FTCSim\FTCSim\bin\Debug\FTCSim.exe.config
+C:\Users\Daniel\documents\visual studio 2017\Projects\FTCSim\FTCSim\bin\Debug\FTCSim.exe
+C:\Users\Daniel\documents\visual studio 2017\Projects\FTCSim\FTCSim\bin\Debug\FTCSim.pdb
+C:\Users\Daniel\documents\visual studio 2017\Projects\FTCSim\FTCSim\obj\Debug\FTCSim.exe
+C:\Users\Daniel\documents\visual studio 2017\Projects\FTCSim\FTCSim\obj\Debug\FTCSim.pdb
+C:\Users\Daniel\documents\visual studio 2017\Projects\FTCSim\FTCSim\obj\Debug\FTCSim.csprojResolveAssemblyReference.cache
